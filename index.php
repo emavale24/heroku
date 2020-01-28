@@ -26,7 +26,6 @@ if($partenza!=null $$ $arrivo!=null)
 	$speech = "parte alle 9 e arriva alle 10.30";
 
 }  
-	$speech = "parte alle 9 e arriva alle 10.30";
 
 }
 else {
